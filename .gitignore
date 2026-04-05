@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.env
+.DS_Store
+web/node_modules/
+web/dist/
+splendor_app/assets/

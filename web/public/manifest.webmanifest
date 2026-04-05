@@ -1,0 +1,17 @@
+{
+  "name": "Splendor Web",
+  "short_name": "Splendor",
+  "description": "Two-player Splendor in the browser.",
+  "display": "standalone",
+  "background_color": "#f5efe3",
+  "theme_color": "#11324d",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

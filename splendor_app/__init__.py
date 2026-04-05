@@ -1,0 +1,2 @@
+"""Splendor desktop prototype package."""
+
